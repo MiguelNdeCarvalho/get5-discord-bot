@@ -444,10 +444,10 @@
         },
         "steam": {
             "hashes": [
-                "sha256:ca7c026848338ca2a004c0cb73d362c94e5c1a74815c8605d34fce3a6662f9c0"
+                "sha256:24210084852ebd2ff13275e0a37d0c2294b965f8078c3a505636c499b5575e7f"
             ],
             "index": "pypi",
-            "version": "==1.0.2"
+            "version": "==1.2.0"
         },
         "typing-extensions": {
             "hashes": [

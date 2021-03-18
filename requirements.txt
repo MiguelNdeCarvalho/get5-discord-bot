@@ -24,7 +24,7 @@ python-valve==0.2.1
 requests==2.25.1
 six==1.15.0
 sqlalchemy==1.4.1
-steam==1.0.2
+steam==1.2.0
 typing-extensions==3.7.4.3
 unidecode==1.1.1
 urllib3==1.26.4
